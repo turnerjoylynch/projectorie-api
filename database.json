@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Carlton",
+      "email": "carlton@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Vanessa",
+      "email": "vanessa@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Taylor",
+      "email": "taylor@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Logan",
+      "email": "logan@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Carolina",
+      "email": "carolina@gmail.com"
+    },
+    {
+      "email": "harley@gmail.com",
+      "name": "harley lewis",
+      "id": 6
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "userId": 1,
+      "projectName": "Dance Floor",
+      "projectDescription": "Dance floor for Carlton",
+      "timestamp": "00000",
+      "name": "dkla;dslfkj",
+      "description": "alskdjfld;sfk"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "projectName": "Kitchen Projects",
+      "projectDescription": "Projects I'd like do do in the kitchen.",
+      "timestamp": "00000",
+      "description": "Projects I'd like to do in the kitchen."
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "projectName": "Test",
+      "projectDescription": "Projects I'd like to test do in the kitchen.",
+      "timestamp": "00000"
+    },
+    {
+      "id": 4,
+      "userId": 0,
+      "projectName": "New Project",
+      "projectDescription": "newer proj description",
+      "timestamp": 0
+    }
+  ],
+  "ideas": [
+    {
+      "id": 2,
+      "projectId": 2,
+      "ideaName": "Backsplash",
+      "ideaUrl": "www.stickandpeel.com",
+      "ideaQuantity": "5",
+      "ideaPrice": "$140",
+      "ideaDescription": "Want to do subway tiles - green or pink?",
+      "timestamp": "00000"
+    }
+  ],
+  "notes": []
+}
